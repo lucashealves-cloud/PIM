@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "rw",
+        "email": "rw",
+        "tipo": "aluno",
+        "senha": "rw",
+        "matrícula": "7847TL"
+    },
+    {
+        "nome": "sa",
+        "email": "@techlearn.com",
+        "tipo": "professor",
+        "senha": "23",
+        "matrícula": null
+    }
+]
