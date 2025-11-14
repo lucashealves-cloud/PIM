@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "rw",
+        "email": "rw",
+        "tipo": "aluno",
+        "senha": "rw",
+        "matrícula": "7847TL",
+        "turma": "Turma A",
+        "notas": {
+            "nota1": 8.0,
+            "nota2": 4.0,
+            "nota3": 6.0
+        }
+    },
+    {
+        "nome": "sa",
+        "email": "@techlearn.com",
+        "tipo": "professor",
+        "senha": "23",
+        "matrícula": null
+    },
+    {
+        "nome": "oi",
+        "email": "oi",
+        "tipo": "aluno",
+        "senha": "oi",
+        "matrícula": "9890TL",
+        "turma": "Turma C",
+        "notas": {
+            "nota1": 3.0,
+            "nota2": 2.0,
+            "nota3": 1.0
+        }
+    }
+]
